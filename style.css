@@ -1,0 +1,31 @@
+/* login */
+
+#text{
+    /* height: 250px; */
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+}
+
+#button{
+    padding: 10px;
+    width: 100px;
+    cursor: pointer;
+    /* color: #fff; */
+}
+
+#box{
+    display: grid;
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+    border: solid thin #aaa;
+}
+
+#box input{
+    display: grid;
+    margin-bottom: 10px;
+    width: 100%;
+    align-self: center;
+}
+
